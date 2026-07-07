@@ -1,4 +1,4 @@
-# 🛡️ Real-Time Cricket Telemetry Platform - Express API Backend
+# 🛡️ Real-Time Cricket Platform - Express API Backend
 
 ![Chronicle Project Poster](assets/project_poster.jpg)
 
