@@ -1,5 +1,7 @@
 # 🛡️ Real-Time Cricket Telemetry Platform - Express API Backend
 
+![Chronicle Project Poster](assets/project_poster.jpg)
+
 [![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://cricket-bd.vercel.app/api-docs)
 [![Node.js](https://img.shields.io/badge/Node.js-v18+-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![Snowflake](https://img.shields.io/badge/Snowflake-DWH-blue?style=for-the-badge&logo=snowflake)](https://github.com/Vamsi-Kandregula/Real-Time-Cricket-Analytics-Platform/blob/main/sql/snowflake_setup.sql)
